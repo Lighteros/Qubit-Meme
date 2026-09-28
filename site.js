@@ -1,5 +1,5 @@
 (function () {
-  var CA = "0xcomingsoon";
+  var CA = "0xed7bc12c9c6e6484e17f7204c16a57a4e2792668";
   var root = document.documentElement;
   var toggle = document.getElementById("theme-toggle");
 
